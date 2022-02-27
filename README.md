@@ -7,11 +7,11 @@ Term: Spring 2022
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ team member 1: Agarwal, Rishav ra3141
+	+ team member 2: Clement, Micol mc5104
+	+ team member 3: Fang, Wenhui wf2282
+	+ team member 4: Liao, Jingwei jl5983
+	+ team member 5: Wang, Xubo xw2808
 
 + Project summary: In this project, we created ...
 	
