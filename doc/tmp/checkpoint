@@ -1,2 +1,2 @@
-model_checkpoint_path: "checkpoint_model_resnet44_classifier_3"
-all_model_checkpoint_paths: "checkpoint_model_resnet44_classifier_3"
+model_checkpoint_path: "checkpoint_model_3_vgg_classifier"
+all_model_checkpoint_paths: "checkpoint_model_3_vgg_classifier"
