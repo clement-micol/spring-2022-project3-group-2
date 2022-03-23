@@ -7,8 +7,8 @@ Term: Spring 2022
 
 + Group 2
 + Team members
-	+ team member 1: Agarwal, Rishav (ra3141)
-	+ team member 2: Clement, Micol (mc5104)
+	+ team member 1: Clement, Micol (mc5104)
+	+ team member 2: Agarwal, Rishav (ra3141)
 	+ team member 3: Fang, Wenhui (wf2282)
 	+ team member 4: Liao, Jingwei (jl5983)
 	+ team member 5: Wang, Xubo (xw2808)
