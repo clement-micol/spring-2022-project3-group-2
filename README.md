@@ -13,9 +13,9 @@ Term: Spring 2022
 	+ team member 4: Liao, Jingwei (jl5983)
 	+ team member 5: Wang, Xubo (xw2808)
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we created a Weekly Supervised Learning model. On creating an inital Neural Network model, we trained the data on the noisy dataset and tried to get predictions for a few. Using these predicted values, we updated our data to insert it into Model 2, where we managed to increase the accuracy subsequently as compared to our initial model.
 	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
