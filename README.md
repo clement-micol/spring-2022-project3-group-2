@@ -13,7 +13,7 @@ Term: Spring 2022
 	+ team member 4: Liao, Jingwei (jl5983)
 	+ team member 5: Wang, Xubo (xw2808)
 
-+ Project summary: In this project, we created a Weekly Supervised Learning model. On creating an inital Neural Network model, we trained the data on the noisy dataset and tried to get predictions for a few. Using these predicted values, we updated our data to insert it into Model 2, where we managed to increase the accuracy subsequently as compared to our initial model.
++ Project summary: In this project, we created a Weekly Supervised Learning model to classify the CIFAR-10 dataset where the labels were disturbed by noise. Multiple model that had good perfomance on the clean CIFAR-10 dataset were tested : VCG model, Compact Convolutional Transformers, ResNet20 and ResNet44 adapted for the CIFAR dataset. Those model were first trained on the noisy data set. The trained convolutional embbeding of each of the tested models is then used for the label cleaning network that takes a noisy label and its corresponding image and return the clean label. Once this label cleaning network was used, we clean our label and retrained our CNN models on the new cleaned dataset. This lead to an improvement of 7% in accuracy on the test set.
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
